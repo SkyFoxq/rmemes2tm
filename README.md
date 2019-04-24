@@ -1,5 +1,5 @@
 # rmemes2tm
-r/memes scraping and upload to telegram channel
+reddit r/memes scraping and upload to telegram channel
 
 ## HOW TO USE
 1. create telegram bot via bot father
